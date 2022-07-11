@@ -15,7 +15,7 @@ For the project in this course, a statically hosted website using the Hugo frame
   * Free services for 12 months from sign-up
 * [AWS Educate](https://www.awseducate.com/student/s/):
   * Free introduction courses to AWS services
-* [Google Cloud Platform](https://console.cloud.google.com/getting-started?project=numeric-duality-356014):
+* [Google Cloud Platform Console](https://console.cloud.google.com/getting-started?project=numeric-duality-356014):
   * Free $300 credits for 90 days from sign-up
 * [Azure Portal](https://portal.azure.com/#home):
   * Free $100 credits for 12 months and wait until the 12 months are over and sign up again if you’re still a student, else, move to pay as you go monthly after 12 months
