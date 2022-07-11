@@ -1,8 +1,8 @@
 # Coursera-Cloud-Computing-Foundations
 
-This is the first course in the Building Cloud Computing Solutions at Scale Specialization! learning objectives in this course include:
+This is the first course in the "Building Cloud Computing Solutions at Scale Specialization" learning objectives in this course include:
 * Learning how to build **foundational Cloud computing infrastructure**, including websites involving **serverless technology** and **virtual machines**. 
-* You will also learn how to apply Agile software development techniques to projects which will be useful in building portfolio projects and global-scale Cloud infrastructures. 
+* Learning how to apply Agile software development techniques to projects which will be useful in building portfolio projects and global-scale Cloud infrastructures. 
 
 For the project in this course, a statically hosted website using the Hugo framework, AWS Code Pipelines, AWS S3 and GitHub will be built.
 
