@@ -1,7 +1,7 @@
 # Week 1 of Cloud Computing Foundations
 
 ## GitHub Demos of Projects
-* [Boston Housing Prediction on Azure Ml](https://github.com/noahgift/flask-ml-azure-serverless)
+* [Boston Housing Prediction on Azure ML](https://github.com/noahgift/flask-ml-azure-serverless)
 * [Flowes Classification in AWS Lambda](https://github.com/noahgift/awslambda)
 * [Movie Recommendation(NLP) in GCP](https://github.com/ashishvinodkumar/Movie_Recommendation)
 * [Real-time Amazon Stock Prediction Dash Application in AWS](https://github.com/PranavM98/Prediction-of-Stock-Prices---Dash-App)
