@@ -10,7 +10,9 @@
 
 ## Overview of Project Objectives
 Create a statically hosted website that has the Hugo Framework as the core feature. Use AWS code pipeline to deliver it and AWS S3 to host it.
-<img src="https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-1/Hugo%20Framework.png?raw=true">
+<div align='center'>
+<img src="https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-1/Hugo%20Framework.png?raw=true" width="40%">
+</div>
 
 1. Use DevOps best practices
 2. Build a GitHUb Repo of source codes
