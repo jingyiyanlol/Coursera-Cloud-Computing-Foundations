@@ -1,6 +1,7 @@
 # Coursera-Cloud-Computing-Foundations
 
-This is the first course in the "Building Cloud Computing Solutions at Scale Specialization" learning objectives in this course include:
+This is the first course in the "Building Cloud Computing Solutions at Scale Specialization".
+Learning objectives in this course include:
 * Learning how to build **foundational Cloud computing infrastructure**, including websites involving **serverless technology** and **virtual machines**. 
 * Learning how to apply Agile software development techniques to projects which will be useful in building portfolio projects and global-scale Cloud infrastructures. 
 
