@@ -1,7 +1,13 @@
 # Week 2 of Cloud Computing Foundations
 
+## Topics Covered
+- Effective Technical Discussions
+- Effective Technical Teamwork
+- Effective Technical Project Management
+
 ## Readings:
 * [Effective Critical Thinking](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Effective-Technical-Discussions.pdf)
+* [Effective Technical Project Management](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Effective-Technical-Project-Management.pdf)
 
 
 ## Labs
@@ -24,3 +30,12 @@
 
     * Open your [notebook in Google Colab](https://github.com/noahgift/duke-coursera-ccf-lab1/blob/main/Practice_Markdown_with_colab.ipynb) and save it into the same GitHub Project. 
     
+2. Project Plan for Course 1 Project
+
+    Develop a spreadsheet documenting a week-by-week project plan for your final project.  
+
+    The following tasks are to be performed:
+
+    * A Trello board with three columns: To Do, In Progress, and Done. [LINK TO TRELLO BOARD](https://trello.com/b/r7kyCtzL/coursera-cloud-computing-foundations-project-1)
+
+    * Complete [Spreadsheet Template](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Project-Plan-Template.xlsx)
