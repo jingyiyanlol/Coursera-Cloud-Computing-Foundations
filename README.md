@@ -20,3 +20,7 @@ For the project in this course, a statically hosted website using the Hugo frame
   * Free $300 credits for 90 days from sign-up
 * [Azure Portal](https://portal.azure.com/#home):
   * Free $100 credits for 12 months and wait until the 12 months are over and sign up again if you’re still a student, else, move to pay as you go monthly after 12 months
+* [Microsoft Learn](https://docs.microsoft.com/en-us/users/yanjingyi-5299/):
+  * Free courses for Azure services
+* [Microsoft Azure Fundamentals Workshops](https://events.microsoft.com/en-us/mvtd?language=English&clientTimeZone=1):
+  * Free certification application within 90 days from workshop date, no expiry date for certifications
