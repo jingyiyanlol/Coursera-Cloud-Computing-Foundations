@@ -1,0 +1,26 @@
+name: Run scaffold application test in week-3 folder with GitHub Actions
+on: [push]
+jobs:
+  build:
+    defaults:
+      run:
+        working-directory: Week-3/scaffold
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        make install
+    - name: Lint with Pylint
+      run: |
+        make lint
+    - name: Test with Pytest
+      run: |
+        make test
+    - name: Format code with Python black
+      run: |
+        make format  
