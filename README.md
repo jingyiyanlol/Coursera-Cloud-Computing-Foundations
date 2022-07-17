@@ -9,6 +9,8 @@ For the project in this course, a statically hosted website using the Hugo frame
 
 [Course Link](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&collectionId=&currentTab=MY_COURSES&productId=QroLL3-XEeu17gr5PLNEuQ&productType=s12n&showMiniModal=true)
 
+[Course Readings Link](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/#aws-amazon-web-services)
+
 ### This repository will be used to note down some notes and create the project eventually.
 
 ## Cloud Useful Links:
