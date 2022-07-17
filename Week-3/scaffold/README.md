@@ -22,3 +22,77 @@
     touch test_hello.py
     touch requirements.txt
     ```
+## Create Virtual Environment
+* Create a hidden virtual environment by typing in the bash terminal:
+    ```bash
+    python3 -m venv ~/.scaffold
+    ```
+* Activate the virtual environment
+    ```bash
+    source ~/.scaffold/bin/activate
+    ```
+* Type `which python` to check if we are indeed using the correct python
+
+## Modify the Makefile
+* Open the Makefile and convert it to tabs
+
+    ![conver-makefile-to-tab](https://user-images.githubusercontent.com/92244042/179404570-3f0ed444-f736-4b51-9d72-3119294ab951.png)
+
+* Paste the following into the Makefile and make changes where neccessary
+```
+install:
+	pip install --upgrade pip &&\
+		pip install -r requirements.txt
+		
+format:
+	black *.py
+	
+lint:
+	pylint --disable=R, C hello.py
+	
+test:
+	python -m pytest -vv --cov=hello test_hello.py
+
+all: install format lint test
+```
+
+## Add some dependencies for the project into requirements.txt
+```
+pylint
+pytest
+click
+black
+pytest-cov
+```
+
+## Building Project
+
+1. **Run the Makefile**
+    ```bash
+    make install
+    ```
+
+2. **Write codes into the python scripts and test scripts**
+    To run the scripts, type: `python hello.py` or `python test_hello.py`
+
+3. **Check for errors using Lint**
+    ```bash
+    make lint
+    ```
+
+4. **Clean up the formatting**
+    ```bash
+    make format
+    ```
+
+5. **Test the code**
+    ```bash
+    make test
+    ```
+
+6. **Run all**
+    ```bash
+    make all
+    ```
+
+## Push changes to GitHub
