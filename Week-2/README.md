@@ -6,8 +6,8 @@
 - Effective Technical Project Management
 
 ## Readings:
-* [Effective Critical Thinking](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Effective-Technical-Discussions.pdf)
-* [Effective Technical Project Management](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Effective-Technical-Project-Management.pdf)
+* [Effective Critical Thinking](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-2/Effective-Technical-Discussions.pdf)
+* [Effective Technical Project Management](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-2/Effective-Technical-Project-Management.pdf)
 
 
 ## Labs
@@ -38,4 +38,4 @@
 
     * A Trello board with three columns: To Do, In Progress, and Done. [LINK TO TRELLO BOARD](https://trello.com/b/r7kyCtzL/coursera-cloud-computing-foundations-project-1)
 
-    * Complete [Spreadsheet Template](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/Week-2/Project-Plan-Template.xlsx)
+    * Complete [Spreadsheet Template](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-2/Project-Plan-Template.xlsx)
