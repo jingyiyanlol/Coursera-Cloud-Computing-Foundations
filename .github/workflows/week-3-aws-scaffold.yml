@@ -1,5 +1,8 @@
 name: Run scaffold application test in week-3 folder with GitHub Actions
-on: [push]
+on: 
+  push:
+    paths:
+        - 'Week-3/scaffold/**'
 jobs:
   build:
     defaults:
