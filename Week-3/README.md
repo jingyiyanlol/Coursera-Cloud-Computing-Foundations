@@ -6,7 +6,7 @@
 - Create a GCP Cloud Development Environment
 - Applied Practice: Building a Multi-Cloud Continuous Integration Pipeline
 
-### Create an AWS Cloud Development Environment
+## Create an AWS Cloud Development Environment
 1. Create a Cloud9 service in the AWS portal and choose all the default settings
 2. After deployment of the Cloud9, we can use the bash terminal to interact with other services in our aws cloud account.
 
@@ -24,3 +24,10 @@
 5. Create the [scaffold](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-3/scaffold) for the project
 
 ![create-scaffold](https://user-images.githubusercontent.com/92244042/179402446-976b2b1b-56f7-402b-81d4-fb28f5608cd8.png)
+
+6. Create GitHub Actions
+    * Go to Actions > New workflow > set up a workflow yourself 
+    * Configure the YAML file to run the workflow on a push trigger
+
+
+
