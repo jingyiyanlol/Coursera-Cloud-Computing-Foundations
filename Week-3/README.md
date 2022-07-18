@@ -25,9 +25,11 @@
 
 ![create-scaffold](https://user-images.githubusercontent.com/92244042/179402446-976b2b1b-56f7-402b-81d4-fb28f5608cd8.png)
 
+
 6. Create GitHub Actions
-    * Go to Actions > New workflow > set up a workflow yourself 
-    * Configure the YAML file to run the workflow on a push trigger
+    - Go to Actions > New workflow > set up a workflow yourself 
+    - Configure the YAML file to run the workflow on a push trigger
+    - Create Workflow Status Badge [![Run scaffold application test in week-3 folder with GitHub Actions](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/week-3-aws-scaffold.yml/badge.svg)](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/week-3-aws-scaffold.yml)
 
 
 
