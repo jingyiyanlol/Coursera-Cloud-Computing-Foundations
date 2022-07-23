@@ -1,4 +1,4 @@
-name: Run scaffold application test in week-3 folder with GitHub Actions
+name: AWS Run scaffold application test in week-3 folder
 on: 
   push:
     paths:
