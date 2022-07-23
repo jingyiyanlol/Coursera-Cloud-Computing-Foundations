@@ -42,7 +42,8 @@
 
 4. Create a requirements-azure.txt that does not have the dependency "black" and update Makefile
 
-4. Create GitHub Actions for Azure Python version
+4. Create GitHub Actions for Azure Python version 
+[![Azure Run scaffold application test in week-3 folder](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/scaffold-azure.yml/badge.svg)](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/scaffold-azure.yml)
 
 
 ## Create a GCP Cloud Development Environment
