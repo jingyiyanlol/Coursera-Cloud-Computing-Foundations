@@ -1,4 +1,4 @@
-name: Run scaffold application test in week-3 folder using Azure Python 3.7.3
+name: Azure Run scaffold application test in week-3 folder 
 on: 
   push:
     paths:
@@ -24,7 +24,4 @@ jobs:
     - name: Test with Pytest
       run: |
         make test
-    - name: Format code with Python black
-      run: |
-        make format  
 
