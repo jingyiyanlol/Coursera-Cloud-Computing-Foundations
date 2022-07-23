@@ -23,13 +23,29 @@
 
 5. Create the [scaffold](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/blob/main/Week-3/scaffold) for the project
 
-![create-scaffold](https://user-images.githubusercontent.com/92244042/179402446-976b2b1b-56f7-402b-81d4-fb28f5608cd8.png)
-
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/92244042/179402446-976b2b1b-56f7-402b-81d4-fb28f5608cd8.png" width="60%">
+</div>
 
 6. Create GitHub Actions
     - Go to Actions > New workflow > set up a workflow yourself 
     - Configure the YAML file to run the workflow on a push trigger
     - Create Workflow Status Badge [![Run scaffold application test in week-3 folder with GitHub Actions](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/week-3-aws-scaffold.yml/badge.svg)](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/actions/workflows/week-3-aws-scaffold.yml)
+
+
+## Create an Azure Cloud Development Environment
+1. Launch a cloud shell in Azure Portal
+
+![launch cloud shell](https://user-images.githubusercontent.com/92244042/180605162-78acb5d5-a56c-48ca-9e5c-8500f0c1735c.png)
+
+2. Create a virtual environment and clone this GitHub repository via SSH
+
+4. Create a requirements-azure.txt that does not have the dependency "black" and update Makefile
+
+4. Create GitHub Actions for Azure Python version
+
+
+## Create a GCP Cloud Development Environment
 
 
 
