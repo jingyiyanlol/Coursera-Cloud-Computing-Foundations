@@ -1,0 +1,30 @@
+name: Run scaffold application test in week-3 folder using Azure Python 3.7.3
+on: 
+  push:
+    paths:
+        - 'Week-3/scaffold/**'
+jobs:
+  build:
+    defaults:
+      run:
+        working-directory: Week-3/scaffold
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7.3
+    - name: Install dependencies
+      run: |
+        make install-azure
+    - name: Lint with Pylint
+      run: |
+        make lint
+    - name: Test with Pytest
+      run: |
+        make test
+    - name: Format code with Python black
+      run: |
+        make format  
+
