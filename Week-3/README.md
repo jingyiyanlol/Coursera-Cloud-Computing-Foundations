@@ -36,14 +36,13 @@
 ## Create an Azure Cloud Development Environment
 1. Launch a cloud shell in Azure Portal
 
-![launch cloud shell](https://user-images.githubusercontent.com/92244042/180605162-78acb5d5-a56c-48ca-9e5c-8500f0c1735c.png)
+![launch cloud shell](https://user-images.githubusercontent.com/92244042/180607421-aa3a5503-3339-4e32-8128-b8b38dcf916c.png)
 
 2. Create a virtual environment and clone this GitHub repository via SSH
 
 4. Create a requirements-azure.txt that does not have the dependency "black" and update Makefile
 
 4. Create GitHub Actions for Azure Python version
-
 
 ## Create a GCP Cloud Development Environment
 
