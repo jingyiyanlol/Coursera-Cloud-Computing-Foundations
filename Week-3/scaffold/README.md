@@ -1,4 +1,4 @@
-# Git Clone and Create Scaffold for the Project in Cloud9 
+# Git Clone and Create Scaffold for the Project in CLoud9/ Azure Cloud Shell/ GCP
 
 ## Git Clone
 * In the bash terminal in Cloud9, type `ssh-keygen -t rsa`. Click ENTER when prompted to provide the filepath and passphrase if there isn't a need to specify them.
