@@ -1,4 +1,4 @@
-name: AWS Run scaffold application test in week-3 folder
+name: Azure Run scaffold application test in week-3 folder 
 on: 
   push:
     paths:
@@ -14,16 +14,14 @@ jobs:
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: 3.7.3
     - name: Install dependencies
       run: |
-        make install
+        make install-azure
     - name: Lint with Pylint
       run: |
         make lint
     - name: Test with Pytest
       run: |
         make test
-    - name: Format code with Python black
-      run: |
-        make format  
+
