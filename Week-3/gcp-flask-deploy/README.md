@@ -15,3 +15,5 @@
 2. Create push trigger and enable app engine admin and service account user
     ![image](https://user-images.githubusercontent.com/92244042/180655457-0dc3d846-c811-46d3-8081-a926558b87cb.png)
 
+3. As this is a subdirectory of a repo, the trigger will not work due to the cloudbuild location, so I will ignore the errors for this Continuous Delivery trial
+
