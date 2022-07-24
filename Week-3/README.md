@@ -50,3 +50,16 @@
 1. Launch a cloud shell in GCP Console
 
 ![launch GCP cloud shell](https://user-images.githubusercontent.com/92244042/180649204-68d3e5f1-1f56-490a-a78d-00ed508cc923.png)
+
+2. Git clone and cd into [gcp-flask-deploy](https://github.com/jingyiyanlol/Coursera-Cloud-Computing-Foundations/tree/main/Week-3/gcp-flask-deploy) directory.
+
+3. Create and activate virtual environment
+
+4. run `make install` to install dependencies
+
+4. run below command to deploy the app
+
+    ```basj
+    gcloud app deploy
+    ```
+5. Set up push trigger for continuous delivery in gcp
