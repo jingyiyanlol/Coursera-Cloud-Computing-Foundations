@@ -47,5 +47,6 @@
 
 ## Create a GCP Cloud Development Environment
 
+1. Launch a cloud shell in GCP Console
 
-
+![launch GCP cloud shell](https://user-images.githubusercontent.com/92244042/180649204-68d3e5f1-1f56-490a-a78d-00ed508cc923.png)
